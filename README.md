@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hady
-- 👀 I’m a computer engineer and interested in startups
+- 👀 I’m a software engineer
 - 📫 How to reach me ... ahmed.abdelhady.saleh@gmail.com
